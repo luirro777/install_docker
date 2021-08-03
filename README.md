@@ -10,13 +10,13 @@ cd install_docker
 ### Debian
 ```
 chmod +x install_debian.sh
-./install_debian.sh
+sudo ./install_debian.sh
 ```
 
 ### Ubuntu
 ```
 chmod +x install_ubuntu.sh
-./install_ubuntu.sh
+sudo ./install_ubuntu.sh
 ```
 
 ## Contacto
